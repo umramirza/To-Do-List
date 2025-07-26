@@ -57,7 +57,7 @@ If Live Server is not installed:
 2. Double-click on it, and it will open directly in your browser.
 
 
-🚧 Possible Future Enhancements
+## 🚧 Possible Future Enhancements
 
 
 💾 Add localStorage to save tasks permanently
@@ -70,8 +70,9 @@ If Live Server is not installed:
 
 
 
-👩‍🎓 Author
+## 👩‍🎓 Author
 Umra Mirza
+
 Frontend Developer | BCA Student
 
 
