@@ -13,16 +13,23 @@ Perfect for beginners to understand DOM manipulation and JavaScript events.
 - ⚡ Built with pure JavaScript (no frameworks)
 
 
-## 🌐 Live Preview
+## 🌐 Live Demo
+👉 [Click here to view the live app](https://umramirza.github.io/To-Do-List/)
 
 ## 📁 Project Structure
 
 todo-list/
+
 ├── index.html → Main HTML file
+
 ├── style.css → CSS styling
+
 ├── script.js → JavaScript logic
+
 ├── img.png → Background image
+
 └── README.md → Documentation
+
 
 ## 🧑‍💻 How to Run This Project
 
@@ -52,13 +59,21 @@ If Live Server is not installed:
 
 🚧 Possible Future Enhancements
 
+
 💾 Add localStorage to save tasks permanently
+
 ✏️ Enable editing existing tasks
+
 🌙 Add dark/light mode toggle
+
 ⏳ Task deadlines or reminders
 
+
 👩‍🎓 Author
+
 Umra Mirza
+
 Frontend Developer | BCA Student
-📚 Invertis University, Bareilly
+
+
 📫 LinkedIn (https://www.linkedin.com/in/umra-mirza-4525962a2)
