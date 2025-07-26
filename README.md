@@ -69,10 +69,9 @@ If Live Server is not installed:
 ⏳ Task deadlines or reminders
 
 
+
 👩‍🎓 Author
-
 Umra Mirza
-
 Frontend Developer | BCA Student
 
 
