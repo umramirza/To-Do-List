@@ -70,10 +70,15 @@ If Live Server is not installed:
 
 
 
-## 👩‍🎓 Author
-Umra Mirza
+## 📄 License  
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Umra Mirza
 
-Frontend Developer | BCA Student
 
+## 🙋‍♀️ Author
 
-📫 LinkedIn (https://www.linkedin.com/in/umra-mirza-4525962a2)
+**Umra Mirza**  
+🎓 BCA Student | 💻 Frontend Developer  
+🔗 [GitHub](https://github.com/umramirza) • [LinkedIn](https://www.linkedin.com/in/umra-mirza-4525962a2)
+
+---
